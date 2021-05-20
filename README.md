@@ -16,19 +16,21 @@ Storyboard是一个在线多人协作的故事创作平台。不同于传统的�
 
 ### demo展示
 
-##### 主界面:art:
+#### 主界面:art:
 
-故事列表，可以按分类显示。有趣的动态卡片效果让用户感受到智能写作的魅力。
+故事列表，可以按分类切换列表，创建新的分类。
+
+有趣的动态卡片效果让你感受到智能写作的魅力。
 
 ![main](pic/main.gif)
 
-##### 创建故事:speech_balloon:
+#### 创建故事:speech_balloon:
 
 简易友好的交互界面，帮助你快速创建一个故事，开启创作之旅。
 
 ![createstory](pic/createstory.gif)
 
-##### 点赞、更换背景图:sparkling_heart:
+#### 点赞、更换背景图:sparkling_heart:
 
 Storyboard还支持一些有趣的小feature, 如点赞，自定义背景图等。
 
@@ -36,7 +38,7 @@ Storyboard还支持一些有趣的小feature, 如点赞，自定义背景图等�
 
 ![storyfeature](pic/storyfeature.gif)
 
-##### 分支跳转与创建:evergreen_tree:
+#### 分支跳转与创建:evergreen_tree:
 
 这是Storyboard最具特点的功能之一！
 
@@ -46,7 +48,7 @@ Storyboard还支持一些有趣的小feature, 如点赞，自定义背景图等�
 
 ![branch](pic/branch-1621476295745.gif)
 
-##### 智能帮写:robot:
+#### 智能帮写:robot:
 
 这是Storyboard最具特点的功能之一！
 
